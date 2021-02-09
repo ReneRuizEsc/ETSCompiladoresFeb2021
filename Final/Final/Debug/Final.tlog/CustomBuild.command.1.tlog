@@ -1,0 +1,4 @@
+^D:\ARCHIVOS\RENÉ\TNT\COMPILADORES\FINAL\FINAL\LEXER.L
+win_flex --wincompat -o lexer.cpp lexer.l
+^D:\ARCHIVOS\RENÉ\TNT\COMPILADORES\FINAL\FINAL\PARSER.Y
+win_bison -o parser.cpp parser.y

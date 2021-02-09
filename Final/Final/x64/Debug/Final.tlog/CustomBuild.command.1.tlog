@@ -1,0 +1,4 @@
+^C:\USERS\OGG_9\DESKTOP\ETSCOMPILADORESFEB2021\FINAL\FINAL\LEXER.L
+win_flex --wincompat -o lexer.cpp lexer.l
+^C:\USERS\OGG_9\DESKTOP\ETSCOMPILADORESFEB2021\FINAL\FINAL\PARSER.Y
+win_bison -o parser.cpp parser.y

@@ -1,0 +1,52 @@
+﻿  lexer.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(49,1): warning C4005: 'INT8_MIN': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(59): message : vea la definición anterior de 'INT8_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(50,1): warning C4005: 'INT16_MIN': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(62): message : vea la definición anterior de 'INT16_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(51,1): warning C4005: 'INT32_MIN': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(65): message : vea la definición anterior de 'INT32_MIN'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(53,1): warning C4005: 'INT8_MAX': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(68): message : vea la definición anterior de 'INT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(54,1): warning C4005: 'INT16_MAX': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(71): message : vea la definición anterior de 'INT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(55,1): warning C4005: 'INT32_MAX': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(74): message : vea la definición anterior de 'INT32_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(57,1): warning C4005: 'UINT8_MAX': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(77): message : vea la definición anterior de 'UINT8_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(58,1): warning C4005: 'UINT16_MAX': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(80): message : vea la definición anterior de 'UINT16_MAX'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\stdint.h(59,1): warning C4005: 'UINT32_MAX': redefinición de macro
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.cpp(83): message : vea la definición anterior de 'UINT32_MAX'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(60,5): error C2143: error de sintaxis: falta '}' delante de '&&'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(60,9): error C2059: error de sintaxis: '='
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(65,3): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(65,3): error C2059: error de sintaxis: '}'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\c_def.h(17,26): error C2440: '=': no se puede realizar la conversión de 'void *' a 'char *'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\c_def.h(17,17): message : La conversión de 'void*' a puntero a elemento que no sea 'void' requiere una conversión explícita
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.l(28,38): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'int' (o bien no existe una conversión aceptable)
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(82,1): message : puede ser 'YYSTYPE &YYSTYPE::operator =(YYSTYPE &&)'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(82,1): message : o       'YYSTYPE &YYSTYPE::operator =(const YYSTYPE &)'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.l(28,38): message : al hacer coincidir la lista de argumentos '(YYSTYPE, int)'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\lexer.l(30,17): error C2143: error de sintaxis: falta ';' delante de '}'
+  main.cpp
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(60,5): error C2143: error de sintaxis: falta '}' delante de '&&'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(60,9): error C2059: error de sintaxis: '='
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(65,3): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(65,3): error C2059: error de sintaxis: '}'
+  parser.cpp
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\c_def.h(17,26): error C2440: '=': no se puede realizar la conversión de 'void *' a 'char *'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\c_def.h(17,17): message : La conversión de 'void*' a puntero a elemento que no sea 'void' requiere una conversión explícita
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(60,5): error C2143: error de sintaxis: falta '}' delante de '&&'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(60,9): error C2059: error de sintaxis: '='
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(65,3): error C2143: error de sintaxis: falta ';' delante de '}'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.h(65,3): error C2059: error de sintaxis: '}'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.cpp(939,26): warning C4244: 'inicializando': conversión de '__int64' a 'long'; posible pérdida de datos
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.y(48,32): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.y(48,32): warning C4313: 'printf': '%s' de la cadena de formato origina conflictos con el argumento 1 del tipo 'int'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.cpp(1281,35): error C2664: 'int yyerror(char *)': el argumento 1 no puede convertirse de 'const char [13]' a 'char *'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.cpp(1281,16): message : Conversión de literal de cadena pierde calificador const (ver /Zc:strictStrings)
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.y(9,6): message : vea la declaración de 'yyerror'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.cpp(1392,35): error C2664: 'int yyerror(char *)': el argumento 1 no puede convertirse de 'const char [17]' a 'char *'
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.cpp(1392,12): message : Conversión de literal de cadena pierde calificador const (ver /Zc:strictStrings)
+C:\Users\OGG_9\Desktop\ETSCompiladoresFeb2021\Final\Final\parser.y(9,6): message : vea la declaración de 'yyerror'
+  Generando código...
